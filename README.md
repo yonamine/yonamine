@@ -1,8 +1,8 @@
 ## Hi! I am Frank Yonamine
 <p>
-🎓 Executive MBA - Management in Information Technology<br>
+🎓 Executive MBA - Management in Information Technology (2018 ~ 2020)<br>
 🏫 Getulio Vargas Foundation (FGV) - São Paulo state, Brazil<br>
-🎓 Bachelor of Computer Engineering<br>
+🎓 Bachelor of Computer Engineering (2001 ~ 2006)<br>
 🏫 Federal University of São Carlos (USFCar) - São Paulo state, Brazil
 </p>
 <p>
