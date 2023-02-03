@@ -33,9 +33,9 @@
 </div>
   
 ##
- 
+
+<p>
 <div>
-    <a href="https://ko-fi.com/yonamine" target="_blank"><img src="https://user-images.githubusercontent.com/2204615/216646770-c11eb72c-1b71-466c-b882-6fbedc32e723.png" target="_blank"></a>    
     <a href="https://www.youtube.com/channel/UCjg2ap1uHdf_wJKajE06JAg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/fyonamine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/frankyonamine" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -43,7 +43,15 @@
     <a href = "mailto:fsy0jpn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/frankyonamine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+</p>
 
 <!--
 Emojis from https://emojipedia.org/
 -->
+  
+##
+<p>
+<div>
+    <a href="https://ko-fi.com/yonamine" target="_blank"><img src="https://user-images.githubusercontent.com/2204615/216646770-c11eb72c-1b71-466c-b882-6fbedc32e723.png" target="_blank"></a>
+</div>
+</p>
