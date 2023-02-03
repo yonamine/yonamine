@@ -35,7 +35,7 @@
 ##
  
 <div>
-    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Ko-fi!', '#29abe0', 'M4M1E6GUT');kofiwidget2.draw();</script> 
+    <a href="https://ko-fi.com/yonamine" target="_blank"></a>    
     <a href="https://www.youtube.com/channel/UCjg2ap1uHdf_wJKajE06JAg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/fyonamine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/frankyonamine" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
